@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T13:22:39.560Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="21.5.0" etag="hgNph4l1pSqqJRktAncs" type="github">
-  <diagram name="Page-1" id="mEwP4kzyyF2_VTlZ2ulT">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-12-18T13:27:45.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RDvYB7q321wDh_7QKArS" version="21.5.0" type="github">
+  <diagram name="Context" id="mEwP4kzyyF2_VTlZ2ulT">
+    <mxGraphModel dx="954" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lmCsolefn78OlfiVpnHh-1" value="System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmCsolefn78OlfiVpnHh-2" target="lmCsolefn78OlfiVpnHh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-2" value="Worker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lmCsolefn78OlfiVpnHh-3" target="lmCsolefn78OlfiVpnHh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-3" value="Payroll" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lmCsolefn78OlfiVpnHh-4" target="lmCsolefn78OlfiVpnHh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-4" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmCsolefn78OlfiVpnHh-5" target="lmCsolefn78OlfiVpnHh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-5" value="Director" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lmCsolefn78OlfiVpnHh-6" target="lmCsolefn78OlfiVpnHh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-6" value="Payroll Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmCsolefn78OlfiVpnHh-14" target="lmCsolefn78OlfiVpnHh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-14" value="Payroll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lmCsolefn78OlfiVpnHh-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
