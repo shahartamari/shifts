@@ -1,2 +1,2 @@
 # shifts
-create an application to manage shift work
+Easily manage shift work by creating schedules, assigning shifts, and managing shift replacements
