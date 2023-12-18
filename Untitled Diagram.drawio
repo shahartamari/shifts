@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T13:27:45.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RDvYB7q321wDh_7QKArS" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T13:28:38.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="okZCZtt20XEuqpGgh_OK" version="21.5.0" type="github">
   <diagram name="Context" id="mEwP4kzyyF2_VTlZ2ulT">
     <mxGraphModel dx="954" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,8 +43,8 @@
         <mxCell id="lmCsolefn78OlfiVpnHh-14" value="Payroll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lmCsolefn78OlfiVpnHh-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="lmCsolefn78OlfiVpnHh-19" value="System" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
