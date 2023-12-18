@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T13:54:26.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SilivlNIjEunKABo8PJj" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-18T14:05:43.186Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LCDDid8Ux9yPsLuSwIZd" version="22.1.11" type="github" pages="3">
   <diagram name="Context" id="mEwP4kzyyF2_VTlZ2ulT">
     <mxGraphModel dx="954" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,9 @@
         <mxCell id="Ye7YqWssGed7zLwXmGTP-15" value="Shift" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="520" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KZgdjMoK0OhzNiJ8VrqX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye7YqWssGed7zLwXmGTP-16" target="KZgdjMoK0OhzNiJ8VrqX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ye7YqWssGed7zLwXmGTP-16" value="Assignment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -98,6 +101,38 @@
         </mxCell>
         <mxCell id="Ye7YqWssGed7zLwXmGTP-27" value="Email" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="345" y="270" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KZgdjMoK0OhzNiJ8VrqX-1" value="Limit" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KZgdjMoK0OhzNiJ8VrqX-3" value="user hours" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3EMVPBH2q7mfENG8-cqu" name="GUI">
+    <mxGraphModel dx="954" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eWKvPMimMVHcpwuNo336-1" value="Calendar View" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eWKvPMimMVHcpwuNo336-2" value="Manager View" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eWKvPMimMVHcpwuNo336-3" value="My Shifts" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="30" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eWKvPMimMVHcpwuNo336-4" value="available Shifts" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eWKvPMimMVHcpwuNo336-5" value="Book a Shift" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eWKvPMimMVHcpwuNo336-6" value="Montly Report" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
